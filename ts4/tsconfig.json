@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "outDir": "./buildts",
+        "target": "es5",
+        "watch": true
+    }
+}
